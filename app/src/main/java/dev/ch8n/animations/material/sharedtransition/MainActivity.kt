@@ -1,10 +1,11 @@
-package dev.ch8n.sharedtransition
+package dev.ch8n.animations.material.sharedtransition
 
 import android.content.Intent
 import android.view.View
 import androidx.core.app.ActivityOptionsCompat
 import androidx.core.util.Pair
 import androidx.core.view.ViewCompat
+import dev.ch8n.animations.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 

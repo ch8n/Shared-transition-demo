@@ -1,4 +1,6 @@
-package dev.ch8n.sharedtransition
+package dev.ch8n.animations.material.sharedtransition
+
+import dev.ch8n.animations.R
 
 
 /**

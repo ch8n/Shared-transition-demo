@@ -1,4 +1,4 @@
-package dev.ch8n.sharedtransition
+package dev.ch8n.animations
 
 import org.junit.Test
 

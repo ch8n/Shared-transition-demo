@@ -1,11 +1,10 @@
-package dev.ch8n.sharedtransition
+package dev.ch8n.animations.material.sharedtransition
 
 import android.os.Bundle
 import android.transition.Fade
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import kotlinx.android.synthetic.main.activity_main.*
+import dev.ch8n.animations.R
 
 abstract class BaseActivity : AppCompatActivity() {
 
