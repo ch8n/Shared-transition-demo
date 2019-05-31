@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".PreviewActivity">
+
+    <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/image_display_demo"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_marginTop="56dp"
+            android:transitionName="image_display_rounded_launcher"
+            android:layout_gravity="center_horizontal"
+            android:src="@mipmap/ic_launcher_round"/>
+
+</FrameLayout>
